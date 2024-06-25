@@ -18,6 +18,10 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Use Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
