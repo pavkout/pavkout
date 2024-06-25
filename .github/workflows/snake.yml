@@ -23,8 +23,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-      - run: npm install
-      - run: npm test
       
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
