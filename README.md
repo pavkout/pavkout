@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pavlos</h1>
 <h3 align="center">I am a passionate frontend developer from Greece, currently residing in Amsterdam.</h3>
 
+<p align="center"><img src="https://github.com/pavkout/pavkout/blob/master/dev-working_rounded.gif" href="https://github.com/pavkout" alt="Pavlos Koutoglou"  width="60%"/></p><br> 
+
+    
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pavkout/pavkout/output/snake.svg" alt="Snake animation" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavkout&label=Profile%20views&color=0e75b6&style=flat" alt="pavkout" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavkout" alt="pavkout" /></a> </p>
@@ -25,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavkout&" alt="pavkout" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
